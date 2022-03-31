@@ -16,15 +16,17 @@
 
 >静态图
 
-![主页PNG](./img/home.png)
+<!-- ![主页PNG](./img/home.png) -->
+目前图片挂了qwq
 
 >动态图
 
-![主页GIF](./img/home.gif)
+<!-- ![主页GIF](./img/home.gif) -->
+目前图片挂了qwq
 
 ### 注
 
-- 访问地址：[个人主页](http://i.dmego.me/)
+- 访问地址：[个人主页](https://i.wincer.space/)
 - 使用了 [一言](http://hitokoto.cn/) 的 API 服务
 - ~~使用了 [Bing 壁纸 API](https://github.com/xCss/bing/) 服务~~
 - ~~使用了 [Yahoo Query Language (YQL)](https://developer.yahoo.com/yql/) 来解决获取 Bing 壁纸跨域问题~~
